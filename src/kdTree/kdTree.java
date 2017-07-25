@@ -1,3 +1,5 @@
+package kdTree;
+
 public class kdTree {
 
     public static void main(String[] args){
